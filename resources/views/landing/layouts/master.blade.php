@@ -1,0 +1,5 @@
+@include('landing.layouts.header')
+@include('landing.layouts.navbar')
+@include('landing.layouts.content')
+@include('landing.layouts.footer')
+@include('landing.layouts.script')
